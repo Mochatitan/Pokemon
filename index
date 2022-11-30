@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Clicker game</title>
+</head>
+
+<body>
+  <div id="content"></div>
+  <script src="bundle.js"></script>
+
+  <hr>
+
+ 
+</body>
+
+</html>
